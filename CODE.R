@@ -7,8 +7,8 @@ attach(project_data_final)
 reg = lm(le ~ am + h + sl + pol + pop + hv + gdp + uf + ms + d)  
 # 'lm()' creates a linear model where 'le' (life expectancy) is the dependent variable.
 # Independent variables: adult mortality (am), healthcare (h), schooling (sl), polio immunization (pol), 
-# population (pop), hospital visits (hv), GDP per capita (gdp), under-five mortality (uf), 
-# medical services (ms), and diet (d).
+# population (pop), hiv (hv), GDP per capita (gdp), under-five mortality (uf), 
+# measles(ms), and deptheria (d).
 
 # Display a summary of the regression model
 summary(reg)  
