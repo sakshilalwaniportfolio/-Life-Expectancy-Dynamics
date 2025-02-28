@@ -1,4 +1,4 @@
-# -Life-Expectancy-Dynamics
+# Life-Expectancy-Dynamics
 
 # Life Expectancy Analysis
 This project analyzes the factors influencing life expectancy using multiple regression on data from 183 countries. Key determinants, including GDP per capita, years of schooling, population, and adult mortality, explain 84% of the variation in life expectancy. Hypothesis testing validates claims on global life expectancy and polio immunization, offering data-driven insights for public health and policy decisions.
@@ -38,7 +38,7 @@ This project analyzes the factors influencing life expectancy using multiple reg
 
 6️⃣ ⚠️ Error Analysis and Model Accuracy: The regression model's standard error of 3.31 suggests a moderate level of prediction accuracy. While the model effectively explains life expectancy variations, further refinements, incorporating healthcare quality, environmental factors, and lifestyle choices, could enhance accuracy and predictive power.
 
- # Conclusion-
+ # Conclusion
 This comprehensive analysis of life expectancy trends explores key socio-economic and health factors influencing longevity across 183 countries. By identifying critical determinants and validating global health claims, this study provides actionable insights for policymakers. To improve life expectancy worldwide, a focus should be on:
 
 📈 Enhancing economic growth through sustainable development initiatives
